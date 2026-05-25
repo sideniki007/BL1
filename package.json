@@ -82,7 +82,7 @@
     "js-yaml": "^4.1.0",
     "jsdom": "^28.1.0",
     "json-buffer": "^3.0.1",
-    "json-schema-traverse": "^0.4.1",
+    "json-schema-traverse": "^1.0.0",
     "json-stable-stringify-without-jsonify": "^1.0.1",
     "keyv": "^4.5.4",
     "levn": "^0.4.1",
